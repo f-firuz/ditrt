@@ -3862,7 +3862,7 @@ fieldset:disabled .btn {
     color: #787878;
     text-align: left;
     list-style: none;
-    background-color: #fff;
+    /* background-color: #fff; */
     background-clip: padding-box;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 6px
