@@ -187,8 +187,8 @@
 .carousel-control-next-icon {
     width: 3rem;
     height: 3rem;
-    background-color: #FF6F0F;
-    border: 12px solid #FF6F0F ;
+    /* background-color: #FF6F0F;
+    border: 12px solid #FF6F0F ; */
     opacity: 1;
     border-radius: 3rem;
 }
