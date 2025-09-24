@@ -7,7 +7,7 @@
 
 
 
- 
+
 :root {
     --bs-blue: #0d6efd;
     --bs-indigo: #6610f2;
@@ -7204,6 +7204,18 @@ fieldset:disabled .btn {
     position: relative !important
 }
 
+.position-date {
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    width: 135px;
+    background-color: #ff6f0f;
+    border: 1px solid #ff6f0f;
+    padding: 9px;
+    border-radius: 3px;
+    opacity: 1;
+}
+
 .position-absolute {
     position: absolute !important
 }
@@ -7318,6 +7330,10 @@ fieldset:disabled .btn {
 
 .border-primary {
     border-color: #FF6F0F !important
+}
+
+.border-primary2 {
+    border-color: #001d23 !important
 }
 
 .border-secondary {
@@ -8351,6 +8367,10 @@ fieldset:disabled .btn {
 
 .bg-primary {
     background-color: #FF6F0F !important
+}
+
+.bg-primary2 {
+    background-color: #001d23 !important
 }
 
 .bg-secondary {

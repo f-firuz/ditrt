@@ -174,7 +174,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-        background: rgb(0 29 35 / 88%);
+        background: rgb(0 29 35 / 68%);
     z-index: 1;
 }
 
@@ -629,7 +629,7 @@ ease;
 
   .indicator-btn.active {
         background: #ff6f0f;
-    border-color: #ff6f0f;
+    /* border-color: #ff6f0f; */
   }
 
   /* Адаптивность */
@@ -693,7 +693,7 @@ ease;
         .pagination .active a {
           background-color: #ff6f0f;
           color: white;
-          border-color: #ff6f0f;
+          /* border-color: #ff6f0f; */
           cursor: default;
         }
 
